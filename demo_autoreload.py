@@ -5,7 +5,7 @@ class MyClass:
 
     def square(self):
         print('compute square')
-        return self.a*2
+        return self.a**2
 
     # def cube(self):
     #     print('compute cube')
